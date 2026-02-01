@@ -5,10 +5,6 @@
     font-family: montserrat, Arial, sans-serif;
 }
 
-body {
-    padding: 20px;
-}
-
 #lead-tracker {
     background: url(../../images/lead-tracker-bg.jpg);
     background-size: cover;

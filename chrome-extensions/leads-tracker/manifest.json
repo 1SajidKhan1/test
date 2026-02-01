@@ -1,9 +1,9 @@
 {
-    "menifest_version": 3,
+    "manifest_version": 3,
     "version": "1.0",
     "name": "Leads Tracker",
     "action": {
-        "default_popup": "leades-tracker.html",
+        "default_popup": "leads-tracker.html", 
         "default_icon": "icon.png"
     }
 }
