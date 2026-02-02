@@ -1,0 +1,22 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+
+}
+
+#buy-btn {
+    padding: 10px 20px;
+    background: teal;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+}
+#buy-btn:hover {
+    background: darkcyan;
+}

@@ -1,0 +1,6 @@
+1) pwd(Print Working Directory) --> it simply prints the directory(folder) path you are working in.
+2) ls(list) --> prints out a list of all the folders and files in the working directory(folder)
+3) cd(Change Directory) --> it make's you move from one directory(folder) to another.
+4) mkdir(Make Directory) --> creates a new directory(folder)
+5) start --> used to open any directory(folder)
+6) New-Item --> used to create new files (e.g., .txt, .doc, .js, .html, .css, .py, .c, .cpp, etc)
